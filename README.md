@@ -1,6 +1,8 @@
 # twitter-adventures
 An online tool for easily creating choice-based Twitter adventure games
 
+[Prototype](https://www.figma.com/file/LpQxdw517sCKhag4YFin6Y/v0.1-thread-adventures-prototype?node-id=0%3A1) (initial draft)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
